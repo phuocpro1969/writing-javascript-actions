@@ -14,7 +14,6 @@ inputs:
     Third-greeting:
         description: "Third"
         required: false
-
-runs:
-    using: "node14"
-    main: "main.js"
+# runs:
+#     using: "node14"
+#     main: "main.js"
